@@ -33,7 +33,8 @@ public class Ecommerce_tc_4_FrameW extends BaseEcommerceTest_FrameW {
 
         FormPage formPage = new FormPage(driver);// driver from capabilities is sent to forn as an argument
 
-        //formPage.nameField.sendKeys("Hello"); // this is if you declare the webelement as public from the formpage
+        //formPage.nameField.sendKeys("Hello");
+        // this is if you declare the webelement as public from the formpage
         formPage.getNameField().sendKeys("Hello");
         driver.hideKeyboard();
 
