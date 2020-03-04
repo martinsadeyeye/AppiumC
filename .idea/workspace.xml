@@ -1,24 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="32db8098-2108-4b25-afc1-1c4f3cf95baf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/htmlreport.html" beforeDir="false" afterPath="$PROJECT_DIR$/Reports/htmlreport.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Utilities/global.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Utilities/global.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/appiumFrameworkTest/Ecommerce_tc_4_FrameW.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/appiumFrameworkTest/Ecommerce_tc_4_FrameW.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/Carbon Regression Test Suite/PayLaterApp Tests.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/Carbon Regression Test Suite/PayLaterApp Tests.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/Carbon Regression Test Suite/PayLaterApp Tests.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/Carbon Regression Test Suite/PayLaterApp Tests.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-TestSuite.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-TestSuite.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TestSuite.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TestSuite.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/emailable-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/emailable-report.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-appiumFrameworkTest.ApiDemoTest_FrameW.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-appiumFrameworkTest.ApiDemoTest_FrameW.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-appiumFrameworkTest.Ecommerce_tc_4_FrameW.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-appiumFrameworkTest.Ecommerce_tc_4_FrameW.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Carbon Regression Test Suite/methods-alphabetical.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/Carbon Regression Test Suite/methods-alphabetical.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Carbon Regression Test Suite/methods.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/Carbon Regression Test Suite/methods.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/testng-results.xml" afterDir="false" />
-    </list>
+    <list default="true" id="32db8098-2108-4b25-afc1-1c4f3cf95baf" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -402,7 +385,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32761088" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" visible="true" weight="0.2731214" />
+      <window_info active="true" anchor="bottom" id="Messages" order="10" visible="true" weight="0.2731214" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
