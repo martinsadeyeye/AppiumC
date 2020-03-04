@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Carbon Regression Test Suite" duration-ms="149492" started-at="2020-03-04T11:27:07 WAT" finished-at="2020-03-04T11:29:36 WAT">
+    <groups>
+    </groups>
+    <test name="PayLaterApp Tests" duration-ms="149492" started-at="2020-03-04T11:27:07 WAT" finished-at="2020-03-04T11:29:36 WAT">
+      <class name="appiumFrameworkTest.Ecommerce_tc_4_FrameW">
+        <test-method status="PASS" signature="killAllProcess()[pri:0, instance:appiumFrameworkTest.Ecommerce_tc_4_FrameW@10bbd20a]" name="killAllProcess" is-config="true" duration-ms="3037" started-at="2020-03-04T11:27:07 WAT" finished-at="2020-03-04T11:27:10 WAT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- killAllProcess -->
+        <test-method status="PASS" signature="TotalValidationTest()[pri:0, instance:appiumFrameworkTest.Ecommerce_tc_4_FrameW@10bbd20a]" name="TotalValidationTest" duration-ms="60111" started-at="2020-03-04T11:27:10 WAT" finished-at="2020-03-04T11:28:10 WAT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TotalValidationTest -->
+      </class> <!-- appiumFrameworkTest.Ecommerce_tc_4_FrameW -->
+      <class name="appiumFrameworkTest.ApiDemoTest_FrameW">
+        <test-method status="PASS" signature="apiDemosTest(java.lang.String)[pri:0, instance:appiumFrameworkTest.ApiDemoTest_FrameW@48503868]" name="apiDemosTest" duration-ms="41711" started-at="2020-03-04T11:28:10 WAT" data-provider="InputData" finished-at="2020-03-04T11:28:52 WAT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Hello]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- apiDemosTest -->
+        <test-method status="PASS" signature="apiDemosTest(java.lang.String)[pri:0, instance:appiumFrameworkTest.ApiDemoTest_FrameW@48503868]" name="apiDemosTest" duration-ms="44548" started-at="2020-03-04T11:28:52 WAT" data-provider="InputData" finished-at="2020-03-04T11:29:36 WAT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[#$%^&*&&]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- apiDemosTest -->
+      </class> <!-- appiumFrameworkTest.ApiDemoTest_FrameW -->
+    </test> <!-- PayLaterApp Tests -->
+  </suite> <!-- Carbon Regression Test Suite -->
+</testng-results>

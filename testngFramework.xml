@@ -1,0 +1,15 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="Carbon Regression Test Suite" parallel="tests" thread-count="2">
+<listeners>
+    <listener class-name="Listeners"/>
+    <listener class-name="resources.Listeners"/>
+    <listener class-name="resources.ExtentReporterNG"/>
+</listeners>
+    <test name="PayLaterApp Tests">
+        <classes>
+            <class name="appiumFrameworkTest.Ecommerce_tc_4_FrameW"/>
+            <class name="appiumFrameworkTest.ApiDemoTest_FrameW"/>
+        </classes>
+    </test>
+</suite>

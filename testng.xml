@@ -1,0 +1,17 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="Carbon Regression Test Suite" parallel="tests" thread-count="2">
+<listeners>
+    <listener class-name="Listeners"/>
+</listeners>
+    <test name="PayLaterApp Tests">
+        <classes>
+            <class name="day1_Framework" >
+                <methods>
+                    <exclude name="Mobile.*"></exclude>
+                </methods>
+            </class>
+            <class name="e"></class>
+        </classes>
+    </test>
+</suite>
