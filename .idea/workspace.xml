@@ -19,16 +19,58 @@
         <entry file="file://$PROJECT_DIR$/testngFramework.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="238">
-              <caret line="14" column="8" lean-forward="true" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+              <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Utilities/global.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/appiumFrameworkTest/Ecommerce_tc_4_FrameW.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="365">
+              <caret line="91" column="1" selection-start-line="91" selection-start-column="1" selection-end-line="91" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/ArrayMinMaxNumber.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="313">
+              <caret line="27" column="36" selection-start-line="27" selection-start-column="36" selection-end-line="27" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/ReverseDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" column="30" lean-forward="true" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="30" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Utilities/global.properties">
+        <entry file="file://$PROJECT_DIR$/src/test/java/DateDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="7" lean-forward="true" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
+            <state relative-caret-position="187">
+              <caret line="12" column="68" selection-start-line="12" selection-start-column="68" selection-end-line="12" selection-end-column="68" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -37,7 +79,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/Utilities/BaseEcommerceTest_FrameW.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="158">
-              <caret line="98" column="57" lean-forward="true" selection-start-line="98" selection-start-column="57" selection-end-line="98" selection-end-column="57" />
+              <caret line="98" column="57" selection-start-line="98" selection-start-column="57" selection-end-line="98" selection-end-column="57" />
             </state>
           </provider>
         </entry>
@@ -64,12 +106,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/Challenge.java" />
-        <option value="$PROJECT_DIR$/src/test/java/Challenge.java" />
-        <option value="$PROJECT_DIR$/src/test/java/ecommerce_tc_4_optimized.java" />
-        <option value="$PROJECT_DIR$/src/main/java/baseEcommerceTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/ecommerce_tc_5.java" />
-        <option value="$PROJECT_DIR$/src/test/java/day1_Framework.java" />
         <option value="$PROJECT_DIR$/src/test/java/Listeners.java" />
         <option value="$PROJECT_DIR$/src/test/java/qaclickacademy/RestAPITest.java" />
         <option value="$PROJECT_DIR$/src/test/java/qaclickacademy/AppiumTest.java" />
@@ -115,6 +151,12 @@
         <option value="$PROJECT_DIR$/src/test/java/appiumFrameworkTest/Ecommerce_tc_4_FrameW.java" />
         <option value="$PROJECT_DIR$/src/main/java/Utilities/BaseEcommerceTest_FrameW.java" />
         <option value="$PROJECT_DIR$/src/main/java/Utilities/global.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/JdbcConnection.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ArrayScenarios.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ArrayInterviewQ1.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ArrayMinMaxNumber.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ReverseDemo.java" />
+        <option value="$PROJECT_DIR$/src/test/java/DateDemo.java" />
       </list>
     </option>
   </component>
@@ -125,11 +167,12 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="933" />
     <option name="width" value="994" />
     <option name="height" value="1038" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -142,6 +185,30 @@
               <item name="PaylaterApp" type="b2602c69:ProjectViewProjectNode" />
               <item name="PaylaterApp" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="PaylaterApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PaylaterApp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PaylaterApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PaylaterApp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PaylaterApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PaylaterApp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PaylaterApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PaylaterApp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -151,7 +218,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../devskiller-candidate-98b39c25-10046329-answer-code" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../devskiller-candidate-98b39c25-10046326-answer-code" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
@@ -185,21 +252,31 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.C:/Users/MARTINS/Desktop/PaylaterApp/testngFramework.xml">
-    <configuration name="ApiDemoTest_FrameW.apiDemosTest" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.DateDemo">
+    <configuration name="ArrayMinMaxNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayMinMaxNumber" />
       <module name="PaylaterApp" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="appiumFrameworkTest.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="appiumFrameworkTest" />
-      <option name="MAIN_CLASS_NAME" value="appiumFrameworkTest.ApiDemoTest_FrameW" />
-      <option name="METHOD_NAME" value="apiDemosTest" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayScenarios" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayScenarios" />
+      <module name="PaylaterApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DateDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DateDemo" />
+      <module name="PaylaterApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReverseDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ReverseDemo" />
+      <module name="PaylaterApp" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -231,48 +308,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ecommerce_tc_4_FrameW" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="PaylaterApp" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="appiumFrameworkTest.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="appiumFrameworkTest" />
-      <option name="MAIN_CLASS_NAME" value="appiumFrameworkTest.Ecommerce_tc_4_FrameW" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Ecommerce_tc_4_FrameW.TotalValidationTest" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="PaylaterApp" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="appiumFrameworkTest.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="appiumFrameworkTest" />
-      <option name="MAIN_CLASS_NAME" value="appiumFrameworkTest.Ecommerce_tc_4_FrameW" />
-      <option name="METHOD_NAME" value="TotalValidationTest" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DateDemo" />
+        <item itemvalue="Application.ReverseDemo" />
+        <item itemvalue="Application.ArrayMinMaxNumber" />
+        <item itemvalue="Application.ArrayScenarios" />
         <item itemvalue="TestNG.C:/Users/MARTINS/Desktop/PaylaterApp/testngFramework.xml" />
-        <item itemvalue="TestNG.ApiDemoTest_FrameW.apiDemosTest" />
-        <item itemvalue="TestNG.Ecommerce_tc_4_FrameW.TotalValidationTest" />
-        <item itemvalue="TestNG.Ecommerce_tc_4_FrameW" />
-        <item itemvalue="TestNG.Ecommerce_tc_4_FrameW" />
       </list>
     </recent_temporary>
   </component>
@@ -323,8 +365,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="747" y="0" width="795" height="830" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29115647" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22312926" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -333,7 +376,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32719547" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.28895184" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.28796563" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4022663" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -341,7 +384,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32761088" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" visible="true" weight="0.27077365" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.2679083" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -417,65 +460,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/test/java/scrollingDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="27" column="27" lean-forward="true" selection-start-line="19" selection-start-column="8" selection-end-line="27" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/PaylaterSignInTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="35" column="7" lean-forward="true" selection-start-line="35" selection-start-column="7" selection-end-line="35" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/qaclickacademy/SeleniumTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="40" selection-start-line="8" selection-start-column="40" selection-end-line="8" selection-end-column="40" />
-          <folding>
-            <element signature="e#101#102#0" expanded="true" />
-            <element signature="e#154#155#0" expanded="true" />
-            <element signature="e#205#206#0" expanded="true" />
-            <element signature="e#258#259#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/qaclickacademy/RestAPITest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="4" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="16" selection-end-column="5" />
-          <folding>
-            <element signature="e#101#102#0" expanded="true" />
-            <element signature="e#149#150#0" expanded="true" />
-            <element signature="e#237#238#0" expanded="true" />
-            <element signature="e#290#291#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/qaclickacademy/AppiumTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
-          <folding>
-            <element signature="e#89#90#0" expanded="true" />
-            <element signature="e#110#111#0" expanded="true" />
-            <element signature="e#235#236#0" expanded="true" />
-            <element signature="e#283#284#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/day1_Framework.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -684,13 +668,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ArrayDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/DynamicMethodDispatch.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
@@ -834,34 +811,79 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/appiumFrameworkTest/Ecommerce_tc_4_FrameW.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="33" column="70" selection-start-line="33" selection-start-column="70" selection-end-line="33" selection-end-column="70" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/testngFramework.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
-          <caret line="14" column="8" lean-forward="true" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+          <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Utilities/BaseEcommerceTest_FrameW.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="158">
-          <caret line="98" column="57" lean-forward="true" selection-start-line="98" selection-start-column="57" selection-end-line="98" selection-end-column="57" />
+          <caret line="98" column="57" selection-start-line="98" selection-start-column="57" selection-end-line="98" selection-end-column="57" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Utilities/global.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="7" lean-forward="true" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ArrayDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ArrayScenarios.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="34" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/appiumFrameworkTest/Ecommerce_tc_4_FrameW.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="365">
+          <caret line="91" column="1" selection-start-line="91" selection-start-column="1" selection-end-line="91" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ArrayMinMaxNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="313">
+          <caret line="27" column="36" selection-start-line="27" selection-start-column="36" selection-end-line="27" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ReverseDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="30" lean-forward="true" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/lang/System.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="112" column="15" selection-start-line="112" selection-start-column="15" selection-end-line="112" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/DateDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="12" column="68" selection-start-line="12" selection-start-column="68" selection-end-line="12" selection-end-column="68" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
