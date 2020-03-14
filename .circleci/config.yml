@@ -1,11 +1,10 @@
-version: 2.1 # use CircleCI 2.1
+version: 2.1
 
 orbs:
   maven: circleci/maven@0.0.12
 
 workflows:
-  maven_test:
-jobs: # a collection of steps
+ jobs: # a collection of steps
   build: # runs not using Workflows must have a `build` job as entry point
     
     working_directory: ~/circleci-demo-java-spring # directory where steps will run
