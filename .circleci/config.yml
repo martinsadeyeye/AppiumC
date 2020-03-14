@@ -20,9 +20,7 @@ jobs:
         paths:
         - ~/.m2
         key: v1-dependencies-{{ checksum "pom.xml" }}
-    - run: 
-	- mvn clean
-	- mvn test
+    - run: mvn clean
 workflows:
   version: 2.1
   workflow:
