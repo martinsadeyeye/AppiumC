@@ -18,9 +18,10 @@ import java.util.concurrent.TimeUnit;
 public class Ecommerce_tc_4_FrameW extends BaseEcommerceTest_FrameW {
 
     @BeforeTest
-    public void killAllProcess() throws IOException, InterruptedException {
+    public void killAllProcess() throws Throwable {
 
-       killAllProcessRunning();
+       //killAllProcessRunning();
+        stopAppium();
     }
 
     @Test

@@ -4,11 +4,13 @@ import io.appium.java_client.android.AndroidDriver;
 import io.appium.java_client.android.AndroidElement;
 import io.appium.java_client.remote.MobileCapabilityType;
 import io.appium.java_client.service.local.AppiumDriverLocalService;
+import org.apache.commons.exec.CommandLine;
+import org.apache.commons.exec.DefaultExecutor;
 import org.apache.commons.io.FileUtils;
 import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.remote.DesiredCapabilities;
-
+import org.apache.commons.exec.DefaultExecuteResultHandler;
 import java.io.File;
 import java.io.FileInputStream;
 import java.io.IOException;
@@ -18,6 +20,7 @@ import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.util.Properties;
 import java.util.concurrent.TimeUnit;
+
 
 public class BaseEcommerceTest_FrameW {
 
@@ -69,11 +72,50 @@ public class BaseEcommerceTest_FrameW {
         Thread.sleep(6000);
     }
 
-    public static void killAllProcessRunning() throws IOException, InterruptedException {
+  /*  public static void killAllProcessRunning() throws IOException, InterruptedException {
 
         //taskkill /F /IM node.exe
         Runtime.getRuntime().exec("taskkill /F /IM node.exe");
         Thread.sleep(3000);
+
+      *//*  CommandLine command = new CommandLine("cmd.exe");
+        command.addArgument("/c");
+        command.addArgument("taskkill");
+        command.addArgument("/F");
+        command.addArgument("/IM");
+        command.addArgument("node.exe");
+        DefaultExecutor executor = new DefaultExecutor();
+        int exitValue = executor.execute(command);
+        Thread.sleep(3000);*//*
+
+    }
+*/
+
+    public static boolean stopAppium() throws Throwable {
+        boolean result = false;
+        try {
+
+            //****************************************************************************
+            //Runtime.getRuntime().exec("cmd /c  taskkill /F /IM node.exe");
+            CommandLine command = new CommandLine("cmd");
+            command.addArgument("/c");
+            command.addArgument("taskkill");
+            command.addArgument("/F");
+            command.addArgument("/IM");
+            command.addArgument("node.exe");
+            DefaultExecuteResultHandler resultHandler = new DefaultExecuteResultHandler();
+            DefaultExecutor executor = new DefaultExecutor();
+            executor.setExitValue(1);
+            executor.execute(command, resultHandler);
+            // ---------------------------------------------------
+            System.out.println("Stoping Appium Server....");
+            //****************************************************************************
+            result = true;
+            // -----------------------------------------------------
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+        return result;
     }
 
     // com.lenddo.mobile.paylater.staging.
