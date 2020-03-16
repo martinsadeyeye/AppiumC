@@ -7,7 +7,7 @@ jobs:
     - image: circleci/openjdk:8-jdk
     working_directory: ~/repo
     environment:
-    #- CIRCLE_COMPARE_URL: https://github.com/martinsadeyeye/AppiumC.git
+    - CIRCLE_COMPARE_URL: https://github.com/martinsadeyeye/AppiumC.git
     - MAVEN_OPTS: -Xmx3200m
     steps:
     - checkout
@@ -26,4 +26,3 @@ workflows:
   workflow:
     jobs:
     - build
-	
